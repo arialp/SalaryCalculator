@@ -1,0 +1,9 @@
+# ninja log v6
+2	132	7392953345031760	CMakeFiles/SalaryCalculator.dir/main.c.obj	f047c40d22ae0569
+132	252	7392953346334696	SalaryCalculator.exe	adbcdaa50528e8d7
+4	43	7392953545739865	CMakeFiles/SalaryCalculator.dir/main.c.obj	f047c40d22ae0569
+43	94	7392953546133766	SalaryCalculator.exe	adbcdaa50528e8d7
+3	45	7392953722770735	CMakeFiles/SalaryCalculator.dir/main.c.obj	f047c40d22ae0569
+45	100	7392953723196082	SalaryCalculator.exe	adbcdaa50528e8d7
+4	43	7392953778764818	CMakeFiles/SalaryCalculator.dir/main.c.obj	f047c40d22ae0569
+43	95	7392953779167536	SalaryCalculator.exe	adbcdaa50528e8d7
